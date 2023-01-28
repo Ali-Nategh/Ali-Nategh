@@ -1,4 +1,4 @@
-# <img src="assets/KenobiHelloThereCompressed.gif" height="50"> Hello There!
+# <img src="assets/KenobiHelloThereCompressed.gif" height="50" align="center"> Hello There!
 
 <a href=#><img src="assets/contributions.svg"></a>
 
