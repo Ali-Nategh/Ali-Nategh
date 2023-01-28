@@ -2,9 +2,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-# I'm a second year student in computer science, have coded some backend and a bit front end. The languages and technologies I used are in the bottom of this page.
-I am proficient in English and eager to learn more and improve my skills.
-Looking forward to gaining more experience and working in big tech companies.
+# I'm a second year student in computer science, have coded some backend and a bit front end. The languages and technologies I used are in the bottom of this page. I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with companies.
 
 <p align="center"> 
   Visitors<br>
@@ -12,8 +10,7 @@ Looking forward to gaining more experience and working in big tech companies.
 </p>
 
 
-**languages and tools:**  
-
+**Languages And Technologies:**  
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Node" align=left width=24></picture>
 
@@ -39,6 +36,7 @@ Looking forward to gaining more experience and working in big tech companies.
 
 
 
+**Contact Me:**  
 
 
 <a href="mailto:AliNategh005@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
