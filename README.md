@@ -4,7 +4,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 #
-#### I'm a second year student in computer science, have experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are in the bottom of this page). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with companies.
+#### I'm a second year student in computer science, have experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are at the bottom of this paragraph). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with other companies.
 #
 
 **Languages And Technologies:**  
@@ -40,10 +40,11 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
-Languages (Python / JS / TS / Java) - DataBase ( PostgreSQL / Redis / MySQL / Mongodb) - ORM (Prisma) - 
-BackEnd (Node.js / Express.js / Nest.js) - Documentation (Swagger)
-
-Other (Git / FireBase / Flask / FastAPI / php)
+- Languages ( Python / JavaScript / TypeScript / Java ) 
+- DataBase ( PostgreSQL / Redis / MySQL / Mongodb) -- ORM ( Prisma )
+- BackEnd ( Node.js / Express.js / Nest.js ) 
+- Documentation ( Swagger )
+- Other ( Git / FireBase / Flask / FastAPI / php )
 
 #
 
