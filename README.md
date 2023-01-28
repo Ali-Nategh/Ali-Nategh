@@ -1,14 +1,11 @@
-### Hello There!
+## Hello There!
+
 
 <a href=#><img src="contributions.svg"></a>
 
-# I'm a second year student in computer science, have coded some backend and a bit front end. The languages and technologies I used are in the bottom of this page. I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with companies.
-
-<p align="center"> 
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/ali-nategh/count.svg" />
-</p>
-
+#
+### I'm a second year student in computer science, have experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are in the bottom of this page). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with companies.
+#
 
 **Languages And Technologies:**  
 
@@ -34,7 +31,7 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
-
+#
 
 **Contact Me:**  
 
@@ -44,3 +41,23 @@
 <a href="https://www.linkedin.com/in/ali-nategh-45b175244">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
+
+
+<p align="center"> 
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/ali-nategh/count.svg" />
+</p>
+
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+- ![#ffffff](https://via.placeholder.com/15/f03c15/000000?text=+) `#fffff`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
