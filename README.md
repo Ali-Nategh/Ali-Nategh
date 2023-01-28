@@ -1,4 +1,5 @@
-# <img src="assets/KenobiHelloThereCompressed.gif" height="50" align="center"> Hello There!
+<div align="center"> <h1> Hello There! <img align="center" src="assets/KenobiHelloThereCompressed.gif" height="50" >  </h1> </div>
+
 
 <a href=#><img src="assets/contributions.svg"></a>
 
