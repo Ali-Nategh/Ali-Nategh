@@ -60,17 +60,3 @@
   Visitors<br>
   <img src="https://profile-counter.glitch.me/ali-nategh/count.svg" />
 </p>
-
-
-
-some new stuff
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/nodedotjs-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg"><img src="" alt="Node" align=left width=24></picture>
