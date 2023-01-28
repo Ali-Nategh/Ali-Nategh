@@ -55,7 +55,28 @@
 
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
 
-<p align="center"> 
+#
+
+<!-- 
+<div style="display: flex;">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+ -->
+
+
+![NAME's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Nategh&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nategh&theme=gotham&layout=compact)](https://github.com/Ali-Nategh)
+
+<br>
+
+
+<p align="left"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/ali-nategh/count.svg" />
 </p>
+
+
