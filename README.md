@@ -56,4 +56,7 @@
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
 
 
-
+<p align="center"> 
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/ali-nategh/count.svg" />
+</p>
