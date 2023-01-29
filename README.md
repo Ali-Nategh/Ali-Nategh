@@ -44,7 +44,7 @@
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 -   Languages ( Python / JavaScript / TypeScript / Java )
--   DataBase ( PostgreSQL / Redis / MySQL / Mongodb) -- ORM ( Prisma )
+-   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
 -   BackEnd ( Docker / Node.js / Express.js / Nest.js )
 -   Documentation ( Swagger )
 -   Other ( Git / FireBase / Flask / FastAPI / php )
