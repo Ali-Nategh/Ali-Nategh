@@ -19,6 +19,8 @@
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Node" align=left width=24></picture>
 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Node" align=left width=24></picture>
+
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt="Node" align=left width=24></picture>
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg" alt="Node" align=left width=24></picture>
@@ -43,7 +45,7 @@
 
 -   Languages ( Python / JavaScript / TypeScript / Java )
 -   DataBase ( PostgreSQL / Redis / MySQL / Mongodb) -- ORM ( Prisma )
--   BackEnd ( Node.js / Express.js / Nest.js )
+-   BackEnd ( Docker / Node.js / Express.js / Nest.js )
 -   Documentation ( Swagger )
 -   Other ( Git / FireBase / Flask / FastAPI / php )
 
