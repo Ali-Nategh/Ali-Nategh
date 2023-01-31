@@ -5,7 +5,7 @@
 
 #
 
-#### I am a second-year student in computer science, have some experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are at the bottom of this paragraph). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with other companies.
+#### I am a student in computer science, have some experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are at the bottom of this paragraph). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with other companies.
 
 #
 
