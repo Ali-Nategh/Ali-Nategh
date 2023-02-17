@@ -41,13 +41,15 @@
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Node" align=left width=24></picture>
 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="Node" align=left width=24></picture>
+
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 -   Languages ( Python / JavaScript / TypeScript / Java )
 -   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
 -   BackEnd ( Docker / Node.js / Express.js / Nest.js )
 -   Documentation ( Swagger )
--   Other ( Git / FireBase / Flask / FastAPI / php )
+-   Other ( Git / React / FireBase / Flask / FastAPI / php )
 
 #
 
