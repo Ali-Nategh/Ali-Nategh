@@ -46,7 +46,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase" align=left width=24></picture>
 
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java>
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java">
 
 -   Languages ( Python / JavaScript / TypeScript / Java )
 -   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
