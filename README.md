@@ -17,6 +17,8 @@
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="TypeScript" align=left width=24></picture>
 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="Linux" align=left width=24></picture>
+
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" align=left width=24></picture>
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" align=left width=24></picture>
@@ -52,7 +54,7 @@
 -   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
 -   BackEnd ( Docker / Node.js / Express.js / Nest.js )
 -   Documentation ( Swagger )
--   Other ( Git / React / Flask / FireBase / FastAPI / php )
+-   Other ( Git / Linux / React / Flask / FireBase / FastAPI / php )
 
 #
 
