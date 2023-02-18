@@ -11,39 +11,42 @@
 
 **Languages And Technologies:**
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="TypeScript" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" align=left width=24></picture>
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt="Node" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nestjs.svg" alt="Nest" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="Express" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" alt="Flask" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="PostgreSQL" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="MySQL" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg" alt="Redis" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prisma.svg" alt="Prisma" align=left width=24></picture>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="Node" align=left width=24></picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/swagger.svg" alt="Swagger" align=left width=24></picture>
 
-<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg" alt="Firebase" align=left width=24></picture>
+
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java>
 
 -   Languages ( Python / JavaScript / TypeScript / Java )
 -   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
