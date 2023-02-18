@@ -49,7 +49,7 @@
 -   DataBase ( PostgreSQL / Redis / MySQL / MongoDB ) -- ORM ( Prisma )
 -   BackEnd ( Docker / Node.js / Express.js / Nest.js )
 -   Documentation ( Swagger )
--   Other ( Git / React / FireBase / Flask / FastAPI / php )
+-   Other ( Git / React / Flask / FireBase / FastAPI / php )
 
 #
 
