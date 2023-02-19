@@ -1,10 +1,5 @@
 <div align="center"> <h1> Hello There! <img align="center" src="assets/KenobiHelloThereCompressed.gif" height="50" >  </h1> </div>
 
-
-<a href=#><img src="assets/contributions.svg"></a>
-
-#
-
 #### I am a student in computer science, have some experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are at the bottom of this paragraph). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with other companies.
 
 #
@@ -58,6 +53,24 @@
 
 #
 
+My Most Important Projects You Might Want To Take A Look At Are: 
+
+- <a href="https://github.com/Ali-Nategh/mytones_proj">MyTones:</a>  Node.js, Express, TypeScript, Redis, PostgreSQL, Prisma ORM
+
+- <a href="https://github.com/Ali-Nategh/react_practice_project_3">MemeGenerator:</a> React, TypeScript
+
+- <a href="https://github.com/Ali-Nategh/python_youtube_scraper_selenium">YoutubeScraper:</a> Python, Selenium
+
+- <a href="https://github.com/Ali-Nategh/python-oop-library-proj">BookLibraryApp:</a> Python, OOP
+
+- <a href="https://github.com/Ali-Nategh/java_oop_library_proj">BookLibraryApp:</a> Java, OOP, DesignPattern
+
+- <a href="https://github.com/Ali-Nategh/odin_landing_page">LandingPage:</a> HTML, CSS, FlexBox 
+
+- <a href="https://github.com/Ali-Nategh/odin_landing_page">RockPaperScisors:</a> JavaScript, HTML, CSS 
+
+#
+
 **Contact Me:**
 
 <a href="mailto:AliNategh005@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -82,6 +95,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nategh&theme=gotham&layout=compact)](https://github.com/Ali-Nategh)
 
 <br>
+
+
+<a href=#><img src="assets/contributions.svg"></a>
 
 
 <p align="left"> 
