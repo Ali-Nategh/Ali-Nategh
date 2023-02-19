@@ -91,8 +91,9 @@ My Most Important Projects You Might Want To Take A Look At Are:
  -->
 
 
-![NAME's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Nategh&show_icons=true&theme=gotham) <br>
+![NAME's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Nategh&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nategh&theme=gotham&layout=compact)](https://github.com/Ali-Nategh)
+
 
 <br>
 
