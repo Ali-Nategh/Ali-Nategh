@@ -58,6 +58,7 @@ My Most Important Projects You Might Want To Take A Look At Are:
 - <a href="https://github.com/Ali-Nategh/mytones_proj">MyTones:</a>  Node.js, Express, TypeScript, Redis, PostgreSQL, Prisma ORM, Rest API, Swagger Documentation
 
 - <a href="https://github.com/Ali-Nategh/react_practice_project_3">MemeGenerator:</a> React, TypeScript
+<a href="https://ali-nategh-meme-generator.netlify.app/">(Preview)</a>
 
 - <a href="https://github.com/Ali-Nategh/python_youtube_scraper_selenium">YoutubeScraper:</a> Python, Selenium
 
@@ -66,8 +67,10 @@ My Most Important Projects You Might Want To Take A Look At Are:
 - <a href="https://github.com/Ali-Nategh/java_oop_library_proj">BookLibraryApp:</a> Java, OOP, DesignPattern
 
 - <a href="https://github.com/Ali-Nategh/odin_landing_page">LandingPage:</a> HTML, CSS, FlexBox 
+<a href="https://ali-nategh.github.io/odin_landing_page/">(Preview)</a>
 
-- <a href="https://github.com/Ali-Nategh/odin_landing_page">RockPaperScisors:</a> JavaScript, HTML, CSS 
+- <a href="https://github.com/Ali-Nategh/odin_rock_paper_scissors">RockPaperScisors:</a> JavaScript, HTML, CSS 
+<a href="https://ali-nategh.github.io/odin_rock_paper_scissors/">(Preview)</a>
 
 #
 
