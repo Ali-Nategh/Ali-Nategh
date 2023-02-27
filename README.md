@@ -58,7 +58,7 @@ My Most Important Projects You Might Want To Take A Look At Are:
 
 - <a href="https://github.com/Ali-Nategh/mytones_proj">MyTones:</a>  Node.js, Express, TypeScript, Redis, PostgreSQL, Prisma ORM, Rest API, Swagger Documentation
 
-- <a href="https://github.com/Ali-Nategh/adonis_api_proj">Adonis Blog:</a>  Adonis.js, CRUD, MySql, LucidORM, Authentication, Validation, Image Upload/Download
+- <a href="https://github.com/Ali-Nategh/adonis_api_proj">AdonisJsBlog:</a>  Adonis.js, CRUD, MySql, LucidORM, Authentication, Validation, Image Upload/Download
 
 - <a href="https://github.com/Ali-Nategh/react_practice_project_3">MemeGenerator:</a> React, TypeScript
 <a href="https://ali-nategh-meme-generator.netlify.app/">(Preview)</a>
