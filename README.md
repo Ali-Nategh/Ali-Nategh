@@ -1,6 +1,10 @@
 <div align="center"> <h1> Hello There! <img align="center" src="assets/KenobiHelloThereCompressed.gif" height="50" >  </h1> </div>
 
-#### I am a student in computer science, have some experience in BackEnd, and have worked a bit with FrontEnd (The languages and technologies I used are at the bottom of this paragraph). I am proficient in English and eager to learn more and improve my skills. Looking forward to gaining more experience and working with other companies.
+I am a Backend Developer with experience in JavaScript, Node.js, SQL, and NoSQL databases, and a passion for learning new technologies and skills. At BarAI company, I worked on the Mergify project, a Shopify app that helps shop owners and customers save on shipping costs by combining orders. I was responsible for refactoring old codes, fixing bugs, testing code, improving performance, and adding new features and integrations to the app.
+
+Currently, I am pursuing a Bachelor's Degree in Computer Science at York University, after transferring from Tehran South Azad University. I have been programming for more than 2 years and have learned various skills, languages, and technologies, such as Java, Python, C++, Git, Linux, Docker, APIs, Web Development, React.js, GraphQL, Postman, PostgreSQL, Redis, Documentation, Web Sockets, and Blockchain. I have also completed the CompTIA Network+ and A+ courses at the Tehran Institute of Technology. I am interested in Cyber Security, Machine Learning, and Game Development, and I have also worked with C# in Unity. 
+
+I am proficient in English, and Persian, and know a bit of French, and have excellent verbal and written communication skills. I am eager to learn more, improve my skills, and contribute to innovative and impactful projects.
 
 #
 
