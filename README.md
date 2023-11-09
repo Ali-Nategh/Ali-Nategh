@@ -80,7 +80,7 @@ My Most Important Projects You Might Want To Take A Look At Are:
 **Contact Me:**
 
 <a href="mailto:AliNategh005@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/ali-nategh-45b175244">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/alinategh">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) -->
 
@@ -96,10 +96,10 @@ My Most Important Projects You Might Want To Take A Look At Are:
 </div>
  -->
 
-
+<!-- 
 ![NAME's github stats](https://github-readme-stats.vercel.app/api?username=Ali-Nategh&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Nategh&theme=gotham&layout=compact)](https://github.com/Ali-Nategh)
-
+ -->
 
 <br>
 
